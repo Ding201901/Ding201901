@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ding201901
-- 👀 I’m interested in computer vision,artificial intelligence,machine learning,NLP and change detection.
+- 👀 I’m interested in machine learning, artificial intelligence, computer vision, and change detection.
 - 🌱 I’m currently learning attention mechanism.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
